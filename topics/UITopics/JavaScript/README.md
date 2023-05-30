@@ -576,7 +576,7 @@ console.log(b) // TypeError: Assignment to constant variable.
 
 ## Q 2.4. What is Hoisting in JavaScript?
 
-JavaScript **Hoisting** refers to the process whereby the interpreter appears to move the declaration of functions, variables or classes to the top of their scope, prior to execution of the code.
+In JavaScript, hoisting allows you to use functions and variables before they're declared.
 
 Hoisting allows functions to be safely used in code before they are declared.
 
