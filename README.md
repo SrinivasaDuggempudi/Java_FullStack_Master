@@ -1,7 +1,7 @@
 # Java FullStack Developer
-
+  
+  ### Java Technologies
 <table>
-  <tr align="center"> </tr>
   <tr>
     <td align="center"><a href="topics/JavaTopics/CoreJava/README.md"><img src="images/javalogo.png" width="75px;" height="75px;" alt="CoreJava" /><br /><b>Core Java</b></a></td>
     <td align="center"><a href="topics/git/README.md"><img src="images/git.png" width="75px;" height="75px;" alt="Git"/><br /><b>Git</b></a></td>
