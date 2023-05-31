@@ -1,8 +1,6 @@
 # Angular Basics
 
-> *Click &#9733; if you like the project. Your contributions are heartily ♡ welcome.*
-
-<br/>
+@ Srinivasa Reddy Duggempudi
 
 ## Related Topics
 
@@ -12,6 +10,7 @@
 * [Typescript Basics](https://github.com/learning-zone/typescript-basics)
 * [Angular Commands List](angular-commands.md)
 * [Angular Unit Testing](unit-testing-questions.md)
+* [Angular Interview Questions](angular-interview-questions.md)
 
 <br/>
 
