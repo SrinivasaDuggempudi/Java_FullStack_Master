@@ -5,8 +5,6 @@
 
 * *[HTML5 Events List](html5-events.md)*
 * *[HTML5 Tags](html5-tags.md)*
-* *[CSS Basics](https://github.com/learning-zone/css-basics)*
-* *[JavaScript Basics](https://github.com/learning-zone/javascript-basics)*
 
 <br/>
 
