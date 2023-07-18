@@ -5,16 +5,6 @@
 ## Related Topics
 * *[Java 8 Interview Questions](README.md)*
 * *[Java 8 Programs](multithreading-questions.md)*
-* *[Collections](collections-questions.md)*
-* *[Java Database Connectivity (JDBC)](JDBC-questions.md)*
-* *[Java Programs](java-programs.md)*
-* *[Java String Methods](java-string-methods.md)*
-* *[Jakarta Server Pages (JSP)](jsp-questions.md)*
-* *[Servlets](servlets-questions.md)*
-* *[Java Multiple Choice Questions](java-multiple-choice-questions-answers.md)*
-* *[Java Design Pattern](https://github.com/learning-zone/java-design-patterns)*
-* *[Hibernate](https://github.com/learning-zone/hibernate-basics)*
-* *[Spring Framework Basics](https://github.com/learning-zone/spring-basics)*
 
 <br/>
 
