@@ -3,7 +3,7 @@
 @Srinivasa Reddy Duggempudi
 
 ## Related Topics
-* *[Java 8 Programs](README.md)*
+* *[Java 8 Interview Questions](README.md)*
 * *[Java 8 Programs](multithreading-questions.md)*
 * *[Collections](collections-questions.md)*
 * *[Java Database Connectivity (JDBC)](JDBC-questions.md)*
