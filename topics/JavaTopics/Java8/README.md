@@ -1,10 +1,10 @@
-# Java Basics
+# Java 8 Interview Questions
 
 @Srinivasa Reddy Duggempudi
 
 ## Related Topics
-
-* *[Multithreading](multithreading-questions.md)*
+* *[Java 8 Programs](README.md)*
+* *[Java 8 Programs](multithreading-questions.md)*
 * *[Collections](collections-questions.md)*
 * *[Java Database Connectivity (JDBC)](JDBC-questions.md)*
 * *[Java Programs](java-programs.md)*
